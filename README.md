@@ -1,1 +1,1 @@
-# Kanata_public
+# Kanata
